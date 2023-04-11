@@ -1,0 +1,23 @@
+
+.list-group-item {
+    list-style: none;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid grey;
+
+}
+
+h1 {
+    list-style: none;
+    margin-left: 37px;
+}
+
+.list-group-item-active {
+    list-style: none;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid grey;
+    background-color: rgb(60, 90, 179);
+}
